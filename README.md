@@ -18,5 +18,3 @@ The book, Marketing Research with R and Python, is available at Amazon now with 
 
 [Google Scholar](https://scholar.google.com/citations?user=zYs5orEAAAAJ&hl=en)
 <br>
-[Linkedin](https://www.linkedin.com/in/lampongyuen/)
-<br>
